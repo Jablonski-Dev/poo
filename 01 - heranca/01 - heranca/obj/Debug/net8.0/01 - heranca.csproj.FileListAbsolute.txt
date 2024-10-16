@@ -1,0 +1,15 @@
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\bin\Debug\net8.0\01 - heranca.exe
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\bin\Debug\net8.0\01 - heranca.deps.json
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\bin\Debug\net8.0\01 - heranca.runtimeconfig.json
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\bin\Debug\net8.0\01 - heranca.dll
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\bin\Debug\net8.0\01 - heranca.pdb
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\obj\Debug\net8.0\01 - heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\obj\Debug\net8.0\01 - heranca.AssemblyInfoInputs.cache
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\obj\Debug\net8.0\01 - heranca.AssemblyInfo.cs
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\obj\Debug\net8.0\01 - heranca.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\obj\Debug\net8.0\01 - heranca.sourcelink.json
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\obj\Debug\net8.0\01 - heranca.dll
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\obj\Debug\net8.0\refint\01 - heranca.dll
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\obj\Debug\net8.0\01 - heranca.pdb
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\obj\Debug\net8.0\01 - heranca.genruntimeconfig.cache
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\01 - heranca\01 - heranca\obj\Debug\net8.0\ref\01 - heranca.dll

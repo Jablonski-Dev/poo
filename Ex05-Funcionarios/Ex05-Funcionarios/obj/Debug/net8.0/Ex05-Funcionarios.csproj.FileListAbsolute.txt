@@ -1,0 +1,15 @@
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\obj\Debug\net8.0\Ex05-Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\obj\Debug\net8.0\Ex05-Funcionarios.AssemblyInfoInputs.cache
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\obj\Debug\net8.0\Ex05-Funcionarios.AssemblyInfo.cs
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\obj\Debug\net8.0\Ex05-Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\obj\Debug\net8.0\Ex05-Funcionarios.sourcelink.json
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\bin\Debug\net8.0\Ex05-Funcionarios.exe
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\bin\Debug\net8.0\Ex05-Funcionarios.deps.json
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\bin\Debug\net8.0\Ex05-Funcionarios.runtimeconfig.json
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\bin\Debug\net8.0\Ex05-Funcionarios.dll
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\bin\Debug\net8.0\Ex05-Funcionarios.pdb
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\obj\Debug\net8.0\Ex05-Funcionarios.dll
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\obj\Debug\net8.0\refint\Ex05-Funcionarios.dll
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\obj\Debug\net8.0\Ex05-Funcionarios.pdb
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\obj\Debug\net8.0\Ex05-Funcionarios.genruntimeconfig.cache
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\Ex05-Funcionarios\Ex05-Funcionarios\obj\Debug\net8.0\ref\Ex05-Funcionarios.dll

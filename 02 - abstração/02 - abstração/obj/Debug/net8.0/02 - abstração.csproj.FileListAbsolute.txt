@@ -1,0 +1,14 @@
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\bin\Debug\net8.0\02 - abstração.exe
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\bin\Debug\net8.0\02 - abstração.deps.json
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\bin\Debug\net8.0\02 - abstração.runtimeconfig.json
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\bin\Debug\net8.0\02 - abstração.dll
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\bin\Debug\net8.0\02 - abstração.pdb
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\obj\Debug\net8.0\02 - abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\obj\Debug\net8.0\02 - abstração.AssemblyInfoInputs.cache
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\obj\Debug\net8.0\02 - abstração.AssemblyInfo.cs
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\obj\Debug\net8.0\02 - abstração.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\obj\Debug\net8.0\02 - abstração.dll
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\obj\Debug\net8.0\refint\02 - abstração.dll
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\obj\Debug\net8.0\02 - abstração.pdb
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\obj\Debug\net8.0\02 - abstração.genruntimeconfig.cache
+C:\Users\Felipe Jablonski\Desktop\BackEnd\poo\02 - abstração\02 - abstração\obj\Debug\net8.0\ref\02 - abstração.dll
